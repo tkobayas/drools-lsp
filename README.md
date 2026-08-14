@@ -1,3 +1,9 @@
+> [!IMPORTANT]
+> This project has moved to the Apache KIE project and is now maintained at:
+> https://github.com/apache/incubator-kie-tools/
+>
+> This repository is archived and no longer maintained.
+
 Overview
 ===
 This is an experimental implementation of [LSP](https://microsoft.github.io/language-server-protocol/) based project intended to provide support for a [DRL](https://docs.jboss.org/drools/release/latest/drools-docs/html_single/#drl-rules-con_drl-rules) text editor.
